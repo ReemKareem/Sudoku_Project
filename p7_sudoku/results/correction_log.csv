@@ -1,0 +1,792 @@
+team_seed,seed,misreads,puzzle,status,exact_solution,true_misread_cells,cell,row,col,read_digit,new_digit,cost,new_digit_is_true
+0,0,0,0,solved,True,,,,,,,0,
+0,0,0,1,solved,True,,,,,,,0,
+0,0,0,2,solved,True,,,,,,,0,
+0,0,0,3,solved,True,,,,,,,0,
+0,0,0,4,solved,True,,,,,,,0,
+0,0,0,5,solved,True,,,,,,,0,
+0,0,0,6,solved,True,,,,,,,0,
+0,0,0,7,solved,True,,,,,,,0,
+0,0,0,8,solved,True,,,,,,,0,
+0,0,0,9,solved,True,,,,,,,0,
+0,0,0,10,solved,True,,,,,,,0,
+0,0,0,11,solved,True,,,,,,,0,
+0,0,0,12,solved,True,,,,,,,0,
+0,0,0,13,solved,True,,,,,,,0,
+0,0,0,14,solved,True,,,,,,,0,
+0,0,0,15,solved,True,,,,,,,0,
+0,0,0,16,solved,True,,,,,,,0,
+0,0,0,17,solved,True,,,,,,,0,
+0,0,0,18,solved,True,,,,,,,0,
+0,0,0,19,solved,True,,,,,,,0,
+0,0,1,0,solved,True,14,14,2,6,1,6,0.2833,True
+0,0,1,1,solved,True,5,5,1,6,3,5,2.4951,True
+0,0,1,2,solved,True,41,41,5,6,7,1,0.6144,True
+0,0,1,3,solved,True,69,69,8,7,1,2,0.5933,True
+0,0,1,4,solved,True,43,43,5,8,4,2,0.9335,True
+0,0,1,5,solved,True,72,72,9,1,4,7,1.4443,True
+0,0,1,6,solved,True,48,48,6,4,7,2,1.2216,True
+0,0,1,7,solved,False,26,26,3,9,4,7,1.2052,False
+0,0,1,8,solved,True,31,31,4,5,7,1,0.6144,True
+0,0,1,9,solved,True,41,41,5,6,3,1,0.1989,True
+0,0,1,10,solved,True,10,10,2,2,2,8,2.903,True
+0,0,1,11,solved,True,47,47,6,3,1,6,0.1722,True
+0,0,1,12,solved,True,61,61,7,8,2,1,2.1331,True
+0,0,1,13,solved,True,67,67,8,5,8,3,0.7,True
+0,0,1,14,solved,True,30,30,4,4,2,1,0.9886,True
+0,0,1,15,solved,True,66,66,8,4,5,6,3.4143,True
+0,0,1,16,solved,False,34,,,,,,0,
+0,0,1,17,solved,True,10,10,2,2,8,3,0.3328,True
+0,0,1,18,solved,False,58,,,,,,0,
+0,0,1,19,solved,False,28,,,,,,0,
+0,0,2,0,solved,True,5 65,5,1,6,6,2,0.7059,True
+0,0,2,0,solved,True,5 65,65,8,3,2,1,0.9886,True
+0,0,2,1,solved,True,0 76,0,1,1,9,4,0.6952,True
+0,0,2,1,solved,True,0 76,76,9,5,9,4,0.8981,True
+0,0,2,2,solved,True,70 79,70,8,8,6,8,2.908,True
+0,0,2,2,solved,True,70 79,79,9,8,2,9,0.1865,True
+0,0,2,3,solved,True,32 53,32,4,6,4,9,0.8062,True
+0,0,2,3,solved,True,32 53,53,6,9,8,6,2.1645,True
+0,0,2,4,solved,False,37 38,37,5,2,8,3,0.7,True
+0,0,2,5,solved,True,1 36,1,1,2,2,7,6.4428,True
+0,0,2,5,solved,True,1 36,36,5,1,2,1,0.975,True
+0,0,2,6,solved,True,6 47,6,1,7,3,8,0.062,True
+0,0,2,6,solved,True,6 47,47,6,3,7,9,1.4164,True
+0,0,2,7,solved,True,31 58,31,4,5,7,1,0.6144,True
+0,0,2,7,solved,True,31 58,58,7,5,5,3,0.0707,True
+0,0,2,8,solved,False,9 15,,,,,,0,
+0,0,2,9,solved,False,5 17,17,2,9,6,1,0.3043,True
+0,0,2,10,solved,False,63 72,72,9,1,3,5,0.1879,True
+0,0,2,11,solved,True,11 37,11,2,3,8,5,0.7797,True
+0,0,2,11,solved,True,11 37,37,5,2,7,2,3.4929,True
+0,0,2,12,solved,True,39 57,39,5,4,7,9,3.7371,True
+0,0,2,12,solved,True,39 57,57,7,4,2,7,2.6264,True
+0,0,2,13,solved,True,24 29,24,3,7,8,3,5.3003,True
+0,0,2,13,solved,True,24 29,29,4,3,9,3,1.3547,True
+0,0,2,14,solved,True,7 73,7,1,8,8,3,0.0596,True
+0,0,2,14,solved,True,7 73,73,9,2,6,4,2.1838,True
+0,0,2,15,solved,True,27 67,27,4,1,1,6,0.1722,True
+0,0,2,15,solved,True,27 67,67,8,5,7,8,6.9461,True
+0,0,2,16,solved,False,32 43,43,5,8,6,5,2.1762,True
+0,0,2,17,solved,True,12 71,12,2,4,6,5,2.2103,True
+0,0,2,17,solved,True,12 71,71,8,9,2,7,2.6264,True
+0,0,2,18,solved,True,42 46,42,5,7,4,2,0.5379,True
+0,0,2,18,solved,True,42 46,46,6,2,7,2,1.2216,True
+0,0,2,19,solved,True,26 39,26,3,9,4,2,1.453,True
+0,0,2,19,solved,True,26 39,39,5,4,3,9,1.2685,True
+0,0,3,0,solved,True,18 49 51,18,3,1,4,9,0.1209,True
+0,0,3,0,solved,True,18 49 51,49,6,5,4,6,1.3925,True
+0,0,3,0,solved,True,18 49 51,51,6,7,6,5,3.8555,True
+0,0,3,1,solved,True,2 21 49,2,1,3,4,9,1.1089,True
+0,0,3,1,solved,True,2 21 49,21,3,4,9,4,0.8981,True
+0,0,3,1,solved,True,2 21 49,49,6,5,6,8,1.5335,True
+0,0,3,2,solved,False,41 46 75,41,5,6,8,1,0.7048,True
+0,0,3,2,solved,False,41 46 75,75,9,4,8,1,1.5981,True
+0,0,3,3,solved,True,23 55 71,23,3,6,4,8,1.9477,True
+0,0,3,3,solved,True,23 55 71,55,7,2,2,3,0.0961,True
+0,0,3,3,solved,True,23 55 71,71,8,9,4,5,1.0248,True
+0,0,3,4,solved,False,42 75 78,42,5,7,1,8,2.557,False
+0,0,3,4,solved,False,42 75 78,78,9,7,8,9,1.1312,True
+0,0,3,5,solved,True,39 43 73,39,5,4,7,2,2.1647,True
+0,0,3,5,solved,True,39 43 73,43,5,8,6,4,0.2285,True
+0,0,3,5,solved,True,39 43 73,73,9,2,4,2,1.0909,True
+0,0,3,6,solved,True,33 42 49,33,4,7,4,9,1.1089,True
+0,0,3,6,solved,True,33 42 49,42,5,7,8,2,0.6995,True
+0,0,3,6,solved,True,33 42 49,49,6,5,6,8,1.5335,True
+0,0,3,7,solved,True,7 40 66,7,1,8,4,6,1.3925,True
+0,0,3,7,solved,True,7 40 66,40,5,5,9,4,0.6952,True
+0,0,3,7,solved,True,7 40 66,66,8,4,8,5,0.7797,True
+0,0,3,8,solved,False,11 17 24,11,2,3,6,5,2.2103,True
+0,0,3,9,solved,True,25 45 63,25,3,8,7,3,4.1267,True
+0,0,3,9,solved,True,25 45 63,45,6,1,8,1,1.5981,True
+0,0,3,9,solved,True,25 45 63,63,8,1,8,4,0.3371,True
+0,0,3,10,solved,False,19 25 78,19,3,2,5,3,1.9128,True
+0,0,3,10,solved,False,19 25 78,78,9,7,2,8,0.9261,True
+0,0,3,11,solved,False,7 37 79,79,9,8,3,5,0.7244,True
+0,0,3,12,solved,False,44 57 74,44,5,9,8,1,0.7048,True
+0,0,3,12,solved,False,44 57 74,57,7,4,2,7,1.912,True
+0,0,3,13,solved,False,12 28 29,12,2,4,9,4,0.8981,True
+0,0,3,14,solved,False,5 47 73,5,1,6,2,4,1.2375,True
+0,0,3,14,solved,False,5 47 73,47,6,3,9,4,0.692,True
+0,0,3,15,solved,True,55 73 77,55,7,2,2,6,1.5554,True
+0,0,3,15,solved,True,55 73 77,73,9,2,3,8,0.062,True
+0,0,3,15,solved,True,55 73 77,77,9,6,2,7,1.912,True
+0,0,3,16,solved,True,8 9 44,8,1,9,4,5,1.0248,True
+0,0,3,16,solved,True,8 9 44,9,2,1,2,8,1.2531,True
+0,0,3,16,solved,True,8 9 44,44,5,9,4,9,0.8361,True
+0,0,3,17,solved,True,12 68 77,12,2,4,8,5,1.1464,True
+0,0,3,17,solved,True,12 68 77,68,8,6,3,5,1.2165,True
+0,0,3,17,solved,True,12 68 77,77,9,6,7,1,0.6144,True
+0,0,3,18,solved,False,16 58 69,69,8,7,9,7,0.924,False
+0,0,3,19,solved,False,32 46 80,46,6,2,9,4,2.2622,True
+0,0,3,19,solved,False,32 46 80,80,9,9,2,7,0.7292,True
+0,0,4,0,solved,False,12 18 24 58,18,3,1,3,9,1.2685,True
+0,0,4,0,solved,False,12 18 24 58,24,3,7,8,2,5.3936,True
+0,0,4,0,solved,False,12 18 24 58,75,9,4,2,1,4.8984,False
+0,0,4,1,unreadable,False,21 57 61 76,,,,,,0,
+0,0,4,2,solved,False,25 41 46 55,41,5,6,2,1,0.9886,True
+0,0,4,2,solved,False,25 41 46 55,46,6,2,8,4,0.3371,True
+0,0,4,2,solved,False,25 41 46 55,56,7,3,7,9,8.4194,False
+0,0,4,3,solved,False,13 28 32 41,13,2,5,1,6,2.8415,True
+0,0,4,3,solved,False,13 28 32 41,28,4,2,6,8,1.122,True
+0,0,4,3,solved,False,13 28 32 41,41,5,6,8,3,0.7,True
+0,0,4,4,solved,False,0 22 24 49,22,3,5,2,3,1.5853,False
+0,0,4,4,solved,False,0 22 24 49,24,3,7,6,2,2.8116,True
+0,0,4,4,solved,False,0 22 24 49,49,6,5,2,7,0.1292,True
+0,0,4,5,solved,False,10 30 33 51,10,2,2,2,3,2.5152,True
+0,0,4,5,solved,False,10 30 33 51,30,4,4,6,4,2.1838,True
+0,0,4,5,solved,False,10 30 33 51,51,6,7,4,2,0.5379,True
+0,0,4,6,solved,False,24 26 40 42,40,5,5,8,5,3.1844,True
+0,0,4,6,solved,False,24 26 40 42,42,5,7,7,2,1.2216,True
+0,0,4,7,unreadable,False,40 51 56 77,,,,,,0,
+0,0,4,8,unreadable,False,11 30 43 79,,,,,,0,
+0,0,4,9,solved,False,2 24 51 73,2,1,3,6,8,1.122,True
+0,0,4,9,solved,False,2 24 51 73,24,3,7,7,9,0.5715,True
+0,0,4,9,solved,False,2 24 51 73,73,9,2,6,5,3.8555,True
+0,0,4,10,unreadable,False,4 10 56 65,,,,,,0,
+0,0,4,11,unreadable,False,37 65 67 72,,,,,,0,
+0,0,4,12,solved,False,11 33 56 60,11,2,3,8,1,1.5981,True
+0,0,4,12,solved,False,11 33 56 60,56,7,3,4,8,1.9477,True
+0,0,4,12,solved,False,11 33 56 60,60,7,7,7,9,0.5715,True
+0,0,4,13,solved,False,45 68 72 74,51,6,7,8,2,0.2166,False
+0,0,4,14,unreadable,False,16 27 30 49,,,,,,0,
+0,0,4,15,solved,False,37 67 75 80,67,8,5,1,8,0.0104,True
+0,0,4,15,solved,False,37 67 75 80,75,9,4,7,2,3.3647,True
+0,0,4,15,solved,False,37 67 75 80,80,9,9,3,1,0.1989,True
+0,0,4,16,solved,False,39 43 61 78,43,5,8,6,5,0.3145,True
+0,0,4,17,unreadable,False,6 10 14 26,,,,,,0,
+0,0,4,18,unreadable,False,15 39 52 73,,,,,,0,
+0,0,4,19,unreadable,False,4 20 32 39,,,,,,0,
+0,1,0,0,solved,True,,,,,,,0,
+0,1,0,1,solved,True,,,,,,,0,
+0,1,0,2,solved,True,,,,,,,0,
+0,1,0,3,solved,True,,,,,,,0,
+0,1,0,4,solved,True,,,,,,,0,
+0,1,0,5,solved,True,,,,,,,0,
+0,1,0,6,solved,True,,,,,,,0,
+0,1,0,7,solved,True,,,,,,,0,
+0,1,0,8,solved,True,,,,,,,0,
+0,1,0,9,solved,True,,,,,,,0,
+0,1,0,10,solved,True,,,,,,,0,
+0,1,0,11,solved,True,,,,,,,0,
+0,1,0,12,solved,True,,,,,,,0,
+0,1,0,13,solved,True,,,,,,,0,
+0,1,0,14,solved,True,,,,,,,0,
+0,1,0,15,solved,True,,,,,,,0,
+0,1,0,16,solved,True,,,,,,,0,
+0,1,0,17,solved,True,,,,,,,0,
+0,1,0,18,solved,True,,,,,,,0,
+0,1,0,19,solved,True,,,,,,,0,
+0,1,1,0,solved,True,45,45,6,1,4,6,0.5552,True
+0,1,1,1,solved,True,71,71,8,9,8,3,0.0596,True
+0,1,1,2,solved,True,21,21,3,4,4,2,0.9335,True
+0,1,1,3,solved,False,70,,,,,,0,
+0,1,1,4,solved,True,63,63,8,1,2,3,3.9297,True
+0,1,1,5,solved,True,20,20,3,3,5,3,1.9128,True
+0,1,1,6,solved,True,42,42,5,7,2,7,3.2582,True
+0,1,1,7,solved,True,62,62,7,9,5,6,3.4143,True
+0,1,1,8,solved,True,62,62,7,9,6,5,1.6438,True
+0,1,1,9,solved,True,10,10,2,2,6,8,2.908,True
+0,1,1,10,solved,True,80,80,9,9,8,7,0.5962,True
+0,1,1,11,solved,True,6,6,1,7,2,4,0.264,True
+0,1,1,12,solved,False,37,,,,,,0,
+0,1,1,13,solved,True,1,1,1,2,2,3,2.5152,True
+0,1,1,14,solved,True,22,22,3,5,4,7,1.2756,True
+0,1,1,15,solved,True,21,21,3,4,9,4,0.8981,True
+0,1,1,16,solved,False,61,,,,,,0,
+0,1,1,17,solved,True,28,28,4,2,8,7,1.0632,True
+0,1,1,18,solved,True,59,59,7,6,2,7,0.7292,True
+0,1,1,19,solved,True,19,19,3,2,2,7,0.7292,True
+0,1,2,0,solved,True,14 55,14,2,6,8,3,0.0596,True
+0,1,2,0,solved,True,14 55,55,7,2,4,8,1.9534,True
+0,1,2,1,solved,True,3 65,3,1,4,2,4,0.264,True
+0,1,2,1,solved,True,3 65,65,8,3,8,5,1.1464,True
+0,1,2,2,solved,True,35 73,35,4,9,4,2,1.0909,True
+0,1,2,2,solved,True,35 73,73,9,2,8,3,0.3328,True
+0,1,2,3,solved,True,25 39,25,3,8,6,1,0.3043,True
+0,1,2,3,solved,True,25 39,39,5,4,8,3,5.3003,True
+0,1,2,4,solved,True,16 23,16,2,8,4,9,2.8234,True
+0,1,2,4,solved,True,16 23,23,3,6,1,7,0.2199,True
+0,1,2,5,solved,False,17 28,28,4,2,2,1,3.0662,True
+0,1,2,6,solved,True,26 37,26,3,9,4,8,1.9477,True
+0,1,2,6,solved,True,26 37,37,5,2,6,4,2.1838,True
+0,1,2,7,solved,False,43 64,64,8,2,1,9,0.2778,True
+0,1,2,8,solved,True,43 47,43,5,8,7,3,2.2149,True
+0,1,2,8,solved,True,43 47,47,6,3,9,4,2.7145,True
+0,1,2,9,solved,True,34 72,34,4,8,7,9,1.3095,True
+0,1,2,9,solved,True,34 72,72,9,1,9,4,2.7145,True
+0,1,2,10,solved,True,1 66,1,1,2,3,5,1.1764,True
+0,1,2,10,solved,True,1 66,66,8,4,8,1,0.7048,True
+0,1,2,11,solved,True,13 72,13,2,5,4,8,1.9477,True
+0,1,2,11,solved,True,13 72,72,9,1,8,6,2.1645,True
+0,1,2,12,solved,True,44 51,44,5,9,8,1,0.7048,True
+0,1,2,12,solved,True,44 51,51,6,7,7,8,2.8292,True
+0,1,2,13,solved,False,23 28,23,3,6,9,5,0.0244,True
+0,1,2,14,solved,True,13 16,13,2,5,6,4,0.2285,True
+0,1,2,14,solved,True,13 16,16,2,8,8,7,0.5962,True
+0,1,2,15,solved,False,30 70,70,8,8,1,9,5.3215,True
+0,1,2,16,solved,False,18 24,5,1,6,5,8,3.3119,False
+0,1,2,16,solved,False,18 24,24,3,7,8,5,0.7797,True
+0,1,2,17,solved,False,43 75,75,9,4,3,5,0.5003,True
+0,1,2,18,solved,False,10 45,10,2,2,9,4,0.6952,True
+0,1,2,19,solved,True,61 66,61,7,8,9,7,1.005,True
+0,1,2,19,solved,True,61 66,66,8,4,2,7,3.7432,True
+0,1,3,0,solved,True,37 57 71,37,5,2,4,2,1.0909,True
+0,1,3,0,solved,True,37 57 71,57,7,4,2,7,6.4428,True
+0,1,3,0,solved,True,37 57 71,71,8,9,4,8,1.9534,True
+0,1,3,1,solved,False,46 57 66,46,6,2,6,8,2.908,True
+0,1,3,2,solved,True,25 35 40,25,3,8,9,5,0.1471,True
+0,1,3,2,solved,True,25 35 40,35,4,9,8,2,1.0565,True
+0,1,3,2,solved,True,25 35 40,40,5,5,3,9,0.7884,True
+0,1,3,3,solved,True,10 63 76,10,2,2,7,9,1.4164,True
+0,1,3,3,solved,True,10 63 76,63,8,1,2,8,2.3404,True
+0,1,3,3,solved,True,10 63 76,76,9,5,1,7,0.2199,True
+0,1,3,4,solved,True,4 23 60,4,1,5,8,3,0.0596,True
+0,1,3,4,solved,True,4 23 60,23,3,6,1,7,1.2537,True
+0,1,3,4,solved,True,4 23 60,60,7,7,4,9,0.5568,True
+0,1,3,5,solved,False,25 42 70,25,3,8,4,8,1.9534,True
+0,1,3,5,solved,False,25 42 70,70,8,8,8,9,0.5245,False
+0,1,3,6,solved,False,38 67 77,38,5,3,2,9,0.1865,True
+0,1,3,6,solved,False,38 67 77,67,8,5,1,8,0.1023,False
+0,1,3,7,solved,False,14 44 77,14,2,6,8,5,3.1844,True
+0,1,3,7,solved,False,14 44 77,44,5,9,3,9,0.8453,True
+0,1,3,7,solved,False,14 44 77,77,9,6,9,7,0.2078,False
+0,1,3,8,unreadable,False,44 54 63,,,,,,0,
+0,1,3,9,solved,True,29 61 65,29,4,3,2,1,0.9886,True
+0,1,3,9,solved,True,29 61 65,61,7,8,5,2,2.3164,True
+0,1,3,9,solved,True,29 61 65,65,8,3,5,9,2.4802,True
+0,1,3,10,solved,True,1 18 70,1,1,2,3,5,0.1302,True
+0,1,3,10,solved,True,1 18 70,18,3,1,6,8,4.1455,True
+0,1,3,10,solved,True,1 18 70,70,8,8,6,5,0.6929,True
+0,1,3,11,solved,False,15 39 47,15,2,7,4,2,0.9335,True
+0,1,3,11,solved,False,15 39 47,39,5,4,5,8,0.1778,True
+0,1,3,11,solved,False,15 39 47,47,6,3,7,5,1.1624,False
+0,1,3,12,solved,False,14 17 29,14,2,6,4,9,0.8361,True
+0,1,3,12,solved,False,14 17 29,29,4,3,8,1,1.5981,True
+0,1,3,13,solved,True,23 33 53,23,3,6,6,5,0.3145,True
+0,1,3,13,solved,True,23 33 53,33,4,7,4,9,2.8234,True
+0,1,3,13,solved,True,23 33 53,53,6,9,9,4,2.7145,True
+0,1,3,14,solved,True,1 12 44,1,1,2,7,1,0.6144,True
+0,1,3,14,solved,True,1 12 44,12,2,4,6,2,0.7059,True
+0,1,3,14,solved,True,1 12 44,44,5,9,7,2,3.3647,True
+0,1,3,15,solved,True,1 11 71,1,1,2,9,5,0.1471,True
+0,1,3,15,solved,True,1 11 71,11,2,3,9,3,1.3547,True
+0,1,3,15,solved,True,1 11 71,71,8,9,8,2,2.2256,True
+0,1,3,16,solved,True,18 44 51,18,3,1,4,9,2.8234,True
+0,1,3,16,solved,True,18 44 51,44,5,9,7,9,3.7371,True
+0,1,3,16,solved,True,18 44 51,51,6,7,4,2,1.0909,True
+0,1,3,17,solved,True,37 61 75,37,5,2,1,8,0.0104,True
+0,1,3,17,solved,True,37 61 75,61,7,8,6,9,4.549,True
+0,1,3,17,solved,True,37 61 75,75,9,4,4,5,1.0248,True
+0,1,3,18,solved,True,31 52 59,31,4,5,6,1,0.3043,True
+0,1,3,18,solved,True,31 52 59,52,6,8,2,8,0.9261,True
+0,1,3,18,solved,True,31 52 59,59,7,6,1,7,0.2424,True
+0,1,3,19,solved,True,3 6 31,3,1,4,4,2,1.453,True
+0,1,3,19,solved,True,3 6 31,6,1,7,1,7,0.2424,True
+0,1,3,19,solved,True,3 6 31,31,4,5,4,8,1.5679,True
+0,1,4,0,unreadable,False,2 19 58 66,,,,,,0,
+0,1,4,1,unreadable,False,3 11 34 45,,,,,,0,
+0,1,4,2,solved,False,17 19 23 80,17,2,9,2,6,1.5554,True
+0,1,4,2,solved,False,17 19 23 80,23,3,6,4,9,0.9191,True
+0,1,4,2,solved,False,17 19 23 80,80,9,9,7,8,2.8292,True
+0,1,4,3,solved,False,24 45 50 63,63,8,1,6,8,1.122,True
+0,1,4,4,solved,False,45 52 71 75,45,6,1,2,8,1.2531,True
+0,1,4,4,solved,False,45 52 71 75,71,8,9,6,2,0.7059,True
+0,1,4,5,unreadable,False,5 25 36 49,,,,,,0,
+0,1,4,6,unreadable,False,3 10 31 41,,,,,,0,
+0,1,4,7,solved,False,11 23 31 38,11,2,3,1,7,0.1468,True
+0,1,4,7,solved,False,11 23 31 38,23,3,6,8,6,2.1645,True
+0,1,4,8,unreadable,False,18 21 36 50,,,,,,0,
+0,1,4,9,unreadable,False,2 63 64 72,,,,,,0,
+0,1,4,10,unreadable,False,13 47 67 74,,,,,,0,
+0,1,4,11,solved,False,6 19 31 75,75,9,4,9,3,1.3547,True
+0,1,4,12,unreadable,False,4 18 51 52,,,,,,0,
+0,1,4,13,unreadable,False,8 18 27 57,,,,,,0,
+0,1,4,14,unreadable,False,13 37 43 46,,,,,,0,
+0,1,4,15,solved,False,16 19 67 76,16,2,8,6,5,0.3647,True
+0,1,4,15,solved,False,16 19 67 76,19,3,2,7,2,3.4929,True
+0,1,4,15,solved,False,16 19 67 76,67,8,5,2,7,2.6264,True
+0,1,4,16,solved,False,18 20 32 56,18,3,1,4,9,0.5568,True
+0,1,4,16,solved,False,18 20 32 56,32,4,6,2,3,0.0961,True
+0,1,4,16,solved,False,18 20 32 56,56,7,3,4,9,0.8361,True
+0,1,4,17,solved,False,19 48 52 71,19,3,2,6,3,0.4503,True
+0,1,4,17,solved,False,19 48 52 71,48,6,4,7,8,1.2991,True
+0,1,4,17,solved,False,19 48 52 71,71,8,9,8,2,5.3936,True
+0,1,4,18,unreadable,False,2 4 50 80,,,,,,0,
+0,1,4,19,solved,False,46 64 73 74,64,8,2,2,4,1.2375,True
+0,1,4,19,solved,False,46 64 73 74,73,9,2,1,6,0.2833,True
+0,2,0,0,solved,True,,,,,,,0,
+0,2,0,1,solved,True,,,,,,,0,
+0,2,0,2,solved,True,,,,,,,0,
+0,2,0,3,solved,True,,,,,,,0,
+0,2,0,4,solved,True,,,,,,,0,
+0,2,0,5,solved,True,,,,,,,0,
+0,2,0,6,solved,True,,,,,,,0,
+0,2,0,7,solved,True,,,,,,,0,
+0,2,0,8,solved,True,,,,,,,0,
+0,2,0,9,solved,True,,,,,,,0,
+0,2,0,10,solved,True,,,,,,,0,
+0,2,0,11,solved,True,,,,,,,0,
+0,2,0,12,solved,True,,,,,,,0,
+0,2,0,13,solved,True,,,,,,,0,
+0,2,0,14,solved,True,,,,,,,0,
+0,2,0,15,solved,True,,,,,,,0,
+0,2,0,16,solved,True,,,,,,,0,
+0,2,0,17,solved,True,,,,,,,0,
+0,2,0,18,solved,True,,,,,,,0,
+0,2,0,19,solved,True,,,,,,,0,
+0,2,1,0,solved,True,5,5,1,6,9,5,0.0244,True
+0,2,1,1,solved,True,55,55,7,2,7,2,1.5898,True
+0,2,1,2,solved,False,32,63,8,1,4,2,3.6336,False
+0,2,1,2,solved,False,32,74,9,3,9,4,0.6801,False
+0,2,1,3,solved,True,42,42,5,7,1,6,0.1722,True
+0,2,1,4,solved,True,23,23,3,6,4,9,0.5568,True
+0,2,1,5,solved,False,65,,,,,,0,
+0,2,1,6,solved,False,54,,,,,,0,
+0,2,1,7,solved,True,49,49,6,5,3,7,0.0185,True
+0,2,1,8,solved,True,36,36,5,1,6,3,0.4503,True
+0,2,1,9,solved,True,62,62,7,9,8,1,0.7048,True
+0,2,1,10,solved,True,42,42,5,7,3,8,0.062,True
+0,2,1,11,solved,True,28,28,4,2,8,2,2.2256,True
+0,2,1,12,solved,True,5,5,1,6,2,3,0.195,True
+0,2,1,13,solved,True,18,18,3,1,3,1,0.1989,True
+0,2,1,14,solved,True,32,32,4,6,6,8,1.5335,True
+0,2,1,15,solved,True,63,63,8,1,9,3,1.3547,True
+0,2,1,16,solved,False,46,,,,,,0,
+0,2,1,17,solved,True,22,22,3,5,7,2,1.5898,True
+0,2,1,18,solved,False,19,,,,,,0,
+0,2,1,19,solved,True,11,11,2,3,7,9,1.4164,True
+0,2,2,0,solved,False,29 58,29,4,3,1,2,0.5933,True
+0,2,2,0,solved,False,29 58,58,7,5,4,6,0.5048,False
+0,2,2,1,solved,False,55 57,55,7,2,7,2,3.4929,True
+0,2,2,2,solved,True,49 68,49,6,5,8,2,2.2256,True
+0,2,2,2,solved,True,49 68,68,8,6,4,9,0.5568,True
+0,2,2,3,solved,False,40 77,40,5,5,4,2,1.453,True
+0,2,2,4,solved,True,10 39,10,2,2,4,2,1.453,True
+0,2,2,4,solved,True,10 39,39,5,4,4,8,1.5679,True
+0,2,2,5,solved,True,19 47,19,3,2,8,2,0.6995,True
+0,2,2,5,solved,True,19 47,47,6,3,2,7,3.2582,True
+0,2,2,6,solved,True,0 21,0,1,1,5,6,3.4143,True
+0,2,2,6,solved,True,0 21,21,3,4,4,9,0.3092,True
+0,2,2,7,solved,True,49 72,49,6,5,1,7,0.2424,True
+0,2,2,7,solved,True,49 72,72,9,1,8,1,1.5981,True
+0,2,2,8,solved,False,42 59,42,5,7,6,8,4.1455,True
+0,2,2,9,solved,True,68 78,68,8,6,8,4,0.3371,True
+0,2,2,9,solved,True,68 78,78,9,7,6,2,2.8116,True
+0,2,2,10,solved,False,35 42,42,5,7,3,8,0.062,True
+0,2,2,11,solved,True,0 28,0,1,1,7,9,3.7371,True
+0,2,2,11,solved,True,0 28,28,4,2,4,2,0.5379,True
+0,2,2,12,solved,False,13 45,,,,,,0,
+0,2,2,13,solved,True,34 62,34,4,8,5,3,1.9128,True
+0,2,2,13,solved,True,34 62,62,7,9,4,9,0.9191,True
+0,2,2,14,solved,False,1 8,1,1,2,6,8,0.6238,False
+0,2,2,15,solved,True,48 51,48,6,4,7,9,1.4164,True
+0,2,2,15,solved,True,48 51,51,6,7,4,8,0.588,True
+0,2,2,16,solved,False,58 60,,,,,,0,
+0,2,2,17,solved,False,22 43,22,3,5,7,2,2.1647,True
+0,2,2,18,solved,False,24 54,,,,,,0,
+0,2,2,19,solved,True,6 54,6,1,7,7,1,0.6144,True
+0,2,2,19,solved,True,6 54,54,7,1,6,5,0.3145,True
+0,2,3,0,solved,False,1 5 62,,,,,,0,
+0,2,3,1,solved,False,8 9 25,8,1,9,2,7,0.0365,True
+0,2,3,1,solved,False,8 9 25,25,3,8,8,3,5.3003,True
+0,2,3,2,solved,True,5 65 74,5,1,6,1,6,0.1722,True
+0,2,3,2,solved,True,5 65 74,65,8,3,4,6,1.3925,True
+0,2,3,2,solved,True,5 65 74,74,9,3,3,9,0.8453,True
+0,2,3,3,solved,False,12 24 78,12,2,4,2,4,1.2375,True
+0,2,3,3,solved,False,12 24 78,24,3,7,9,4,2.7145,True
+0,2,3,3,solved,False,12 24 78,78,9,7,8,1,3.2971,False
+0,2,3,4,solved,True,39 69 77,39,5,4,7,8,1.2991,True
+0,2,3,4,solved,True,39 69 77,69,8,7,7,8,2.8292,True
+0,2,3,4,solved,True,39 69 77,77,9,6,5,3,0.0707,True
+0,2,3,5,solved,True,27 52 80,27,4,1,8,1,0.7048,True
+0,2,3,5,solved,True,27 52 80,52,6,8,2,1,0.975,True
+0,2,3,5,solved,True,27 52 80,80,9,9,8,9,0.4674,True
+0,2,3,6,solved,True,6 16 27,6,1,7,2,3,0.7794,True
+0,2,3,6,solved,True,6 16 27,16,2,8,9,5,0.1471,True
+0,2,3,6,solved,True,6 16 27,27,4,1,8,4,0.3371,True
+0,2,3,7,solved,True,45 46 79,45,6,1,3,5,1.3099,True
+0,2,3,7,solved,True,45 46 79,46,6,2,7,8,6.9461,True
+0,2,3,7,solved,True,45 46 79,79,9,8,7,9,1.3095,True
+0,2,3,8,solved,True,16 21 42,16,2,8,2,1,3.0662,True
+0,2,3,8,solved,True,16 21 42,21,3,4,7,4,1.625,True
+0,2,3,8,solved,True,16 21 42,42,5,7,5,8,0.5379,True
+0,2,3,9,solved,False,7 27 38,7,1,8,8,3,5.3003,True
+0,2,3,10,solved,True,9 10 11,9,2,1,4,7,1.4443,True
+0,2,3,10,solved,True,9 10 11,10,2,2,2,8,2.903,True
+0,2,3,10,solved,True,9 10 11,11,2,3,2,3,1.058,True
+0,2,3,11,solved,False,12 20 78,12,2,4,6,5,2.2103,True
+0,2,3,11,solved,False,12 20 78,78,9,7,7,5,2.6037,True
+0,2,3,12,solved,True,3 45 73,3,1,4,1,6,2.8415,True
+0,2,3,12,solved,True,3 45 73,45,6,1,6,2,2.8116,True
+0,2,3,12,solved,True,3 45 73,73,9,2,8,9,0.4674,True
+0,2,3,13,solved,False,31 56 62,31,4,5,9,8,1.225,True
+0,2,3,14,solved,True,1 14 24,1,1,2,7,5,2.6037,True
+0,2,3,14,solved,True,1 14 24,14,2,6,7,2,1.5898,True
+0,2,3,14,solved,True,1 14 24,24,3,7,1,7,0.2424,True
+0,2,3,15,solved,True,16 27 63,16,2,8,7,8,6.9461,True
+0,2,3,15,solved,True,16 27 63,27,4,1,4,9,2.8234,True
+0,2,3,15,solved,True,16 27 63,63,8,1,9,3,1.3547,True
+0,2,3,16,solved,True,15 38 67,15,2,7,1,2,0.5933,True
+0,2,3,16,solved,True,15 38 67,38,5,3,7,8,1.2991,True
+0,2,3,16,solved,True,15 38 67,67,8,5,7,2,3.3647,True
+0,2,3,17,solved,False,37 56 60,56,7,3,9,4,0.8981,True
+0,2,3,17,solved,False,37 56 60,60,7,7,8,7,0.5962,True
+0,2,3,18,solved,False,38 53 74,53,6,9,4,2,1.0909,True
+0,2,3,19,solved,False,27 51 67,27,4,1,2,1,2.1331,True
+0,2,4,0,solved,False,5 29 73 76,29,4,3,7,2,2.1647,True
+0,2,4,0,solved,False,5 29 73 76,73,9,2,5,9,2.4971,False
+0,2,4,0,solved,False,5 29 73 76,76,9,5,9,7,4.8724,False
+0,2,4,1,unreadable,False,13 25 33 78,,,,,,0,
+0,2,4,2,solved,False,2 37 69 77,,,,,,0,
+0,2,4,3,solved,False,40 42 56 78,40,5,5,4,2,0.9335,True
+0,2,4,3,solved,False,40 42 56 78,42,5,7,2,6,1.5554,True
+0,2,4,3,solved,False,40 42 56 78,56,7,3,2,1,0.9886,True
+0,2,4,4,unreadable,False,19 37 67 71,,,,,,0,
+0,2,4,5,solved,False,0 63 65 80,0,1,1,5,8,0.1538,True
+0,2,4,5,solved,False,0 63 65 80,63,8,1,4,6,1.3925,True
+0,2,4,5,solved,False,0 63 65 80,80,9,9,4,9,1.4771,True
+0,2,4,6,solved,False,27 36 39 71,39,5,4,7,2,3.3647,True
+0,2,4,6,solved,False,27 36 39 71,71,8,9,8,6,2.1645,True
+0,2,4,7,unreadable,False,2 22 46 67,,,,,,0,
+0,2,4,8,solved,False,2 20 27 67,2,1,3,2,1,0.9886,True
+0,2,4,8,solved,False,2 20 27 67,20,3,3,2,8,0.9261,True
+0,2,4,8,solved,False,2 20 27 67,67,8,5,2,3,0.195,True
+0,2,4,9,solved,False,23 41 67 78,41,5,6,4,6,1.5172,True
+0,2,4,9,solved,False,23 41 67 78,67,8,5,2,3,2.5152,True
+0,2,4,9,solved,False,23 41 67 78,78,9,7,8,2,2.2256,True
+0,2,4,10,unreadable,False,10 43 46 78,,,,,,0,
+0,2,4,11,solved,False,23 39 42 65,23,3,6,2,3,4.0527,False
+0,2,4,11,solved,False,23 39 42 65,39,5,4,2,1,3.0662,True
+0,2,4,11,solved,False,23 39 42 65,42,5,7,8,6,2.1645,True
+0,2,4,12,unreadable,False,13 45 65 80,,,,,,0,
+0,2,4,13,unreadable,False,18 33 49 64,,,,,,0,
+0,2,4,14,solved,False,15 41 42 64,15,2,7,4,6,0.5552,True
+0,2,4,14,solved,False,15 41 42 64,41,5,6,2,3,6.1962,False
+0,2,4,14,solved,False,15 41 42 64,64,8,2,4,7,1.2756,True
+0,2,4,15,solved,False,20 48 62 66,66,8,4,5,6,3.4143,True
+0,2,4,16,solved,False,24 32 40 79,32,4,6,4,6,1.5172,True
+0,2,4,16,solved,False,24 32 40 79,40,5,5,9,3,1.3547,True
+0,2,4,16,solved,False,24 32 40 79,79,9,8,3,5,0.1879,True
+0,2,4,17,solved,False,19 50 53 68,19,3,2,8,4,0.3371,True
+0,2,4,18,solved,False,48 54 55 66,48,6,4,4,9,0.9191,True
+0,2,4,18,solved,False,48 54 55 66,55,7,2,9,7,0.944,True
+0,2,4,18,solved,False,48 54 55 66,66,8,4,3,1,0.1989,True
+0,2,4,19,unreadable,False,17 35 38 51,,,,,,0,
+0,3,0,0,solved,True,,,,,,,0,
+0,3,0,1,solved,True,,,,,,,0,
+0,3,0,2,solved,True,,,,,,,0,
+0,3,0,3,solved,True,,,,,,,0,
+0,3,0,4,solved,True,,,,,,,0,
+0,3,0,5,solved,True,,,,,,,0,
+0,3,0,6,solved,True,,,,,,,0,
+0,3,0,7,solved,True,,,,,,,0,
+0,3,0,8,solved,True,,,,,,,0,
+0,3,0,9,solved,True,,,,,,,0,
+0,3,0,10,solved,True,,,,,,,0,
+0,3,0,11,solved,True,,,,,,,0,
+0,3,0,12,solved,True,,,,,,,0,
+0,3,0,13,solved,True,,,,,,,0,
+0,3,0,14,solved,True,,,,,,,0,
+0,3,0,15,solved,True,,,,,,,0,
+0,3,0,16,solved,True,,,,,,,0,
+0,3,0,17,solved,True,,,,,,,0,
+0,3,0,18,solved,True,,,,,,,0,
+0,3,0,19,solved,True,,,,,,,0,
+0,3,1,0,solved,False,31,31,4,5,8,3,0.2682,False
+0,3,1,1,solved,True,57,57,7,4,2,3,0.195,True
+0,3,1,2,solved,True,5,5,1,6,6,8,2.908,True
+0,3,1,3,solved,True,19,19,3,2,4,9,0.9191,True
+0,3,1,4,solved,True,26,26,3,9,4,9,0.9191,True
+0,3,1,5,solved,True,59,59,7,6,6,1,0.3043,True
+0,3,1,6,solved,True,37,37,5,2,9,3,0.9661,True
+0,3,1,7,solved,False,1,1,1,2,5,2,0.4735,False
+0,3,1,8,solved,True,38,38,5,3,9,7,0.944,True
+0,3,1,9,solved,True,49,49,6,5,5,6,1.4897,True
+0,3,1,10,solved,False,8,,,,,,0,
+0,3,1,11,solved,True,34,34,4,8,2,7,1.4908,True
+0,3,1,12,solved,True,66,66,8,4,1,6,0.1722,True
+0,3,1,13,solved,True,50,50,6,6,3,9,1.6759,True
+0,3,1,14,solved,True,68,68,8,6,4,9,0.9191,True
+0,3,1,15,solved,True,68,68,8,6,9,4,2.2622,True
+0,3,1,16,solved,True,2,2,1,3,4,9,3.1027,True
+0,3,1,17,solved,True,46,46,6,2,2,7,1.912,True
+0,3,1,18,solved,True,54,54,7,1,2,7,2.6215,True
+0,3,1,19,solved,True,28,28,4,2,4,8,1.5679,True
+0,3,2,0,solved,False,40 66,40,5,5,9,7,0.2078,False
+0,3,2,0,solved,False,40 66,66,8,4,4,9,2.4401,True
+0,3,2,1,solved,True,33 61,33,4,7,3,5,0.5003,True
+0,3,2,1,solved,True,33 61,61,7,8,2,1,0.9886,True
+0,3,2,2,solved,True,19 77,19,3,2,4,5,1.0248,True
+0,3,2,2,solved,True,19 77,77,9,6,8,1,1.5981,True
+0,3,2,3,solved,True,38 79,38,5,3,1,6,0.1722,True
+0,3,2,3,solved,True,38 79,79,9,8,6,5,0.7684,True
+0,3,2,4,solved,True,13 67,13,2,5,8,2,0.6995,True
+0,3,2,4,solved,True,13 67,67,8,5,6,4,0.2285,True
+0,3,2,5,solved,False,21 28,21,3,4,9,5,0.0244,True
+0,3,2,6,solved,True,52 58,52,6,8,4,2,0.5379,True
+0,3,2,6,solved,True,52 58,58,7,5,4,6,1.5172,True
+0,3,2,7,solved,False,1 42,42,5,7,9,4,2.7145,True
+0,3,2,8,solved,False,35 79,72,9,1,9,3,2.4544,False
+0,3,2,8,solved,False,35 79,79,9,8,9,8,4.0059,True
+0,3,2,9,solved,True,27 64,27,4,1,7,9,0.9035,True
+0,3,2,9,solved,True,27 64,64,8,2,8,7,1.0632,True
+0,3,2,10,solved,False,9 59,59,7,6,2,7,0.1292,True
+0,3,2,11,solved,False,40 48,,,,,,0,
+0,3,2,12,solved,False,11 58,58,7,5,8,2,0.0155,True
+0,3,2,13,solved,True,19 59,19,3,2,4,6,1.3925,True
+0,3,2,13,solved,True,19 59,59,7,6,2,3,0.0961,True
+0,3,2,14,solved,True,12 26,12,2,4,7,9,0.0747,True
+0,3,2,14,solved,True,12 26,26,3,9,1,7,0.1468,True
+0,3,2,15,solved,True,38 40,38,5,3,6,1,1.3638,True
+0,3,2,15,solved,True,38 40,40,5,5,6,4,1.1244,True
+0,3,2,16,solved,True,2 18,2,1,3,1,9,5.3215,True
+0,3,2,16,solved,True,2 18,18,3,1,4,6,1.5172,True
+0,3,2,17,solved,True,39 47,39,5,4,8,3,0.3328,True
+0,3,2,17,solved,True,39 47,47,6,3,7,4,1.625,True
+0,3,2,18,solved,True,65 66,65,8,3,6,1,1.3638,True
+0,3,2,18,solved,True,65 66,66,8,4,1,7,1.3073,True
+0,3,2,19,solved,True,19 57,19,3,2,7,9,1.3095,True
+0,3,2,19,solved,True,19 57,57,7,4,8,2,0.0155,True
+0,3,3,0,solved,False,6 17 57,17,2,9,3,5,0.0646,True
+0,3,3,0,solved,False,6 17 57,57,7,4,8,2,1.0565,True
+0,3,3,1,solved,True,54 57 68,54,7,1,7,8,0.0578,True
+0,3,3,1,solved,True,54 57 68,57,7,4,8,3,0.3328,True
+0,3,3,1,solved,True,54 57 68,68,8,6,2,7,3.7432,True
+0,3,3,2,solved,True,24 68 78,24,3,7,4,2,0.9335,True
+0,3,3,2,solved,True,24 68 78,68,8,6,1,6,0.1722,True
+0,3,3,2,solved,True,24 68 78,78,9,7,5,9,2.4802,True
+0,3,3,3,solved,True,18 51 79,18,3,1,7,2,3.3647,True
+0,3,3,3,solved,True,18 51 79,51,6,7,8,1,0.7048,True
+0,3,3,3,solved,True,18 51 79,79,9,8,3,5,1.1764,True
+0,3,3,4,solved,True,15 64 76,15,2,7,6,4,2.1838,True
+0,3,3,4,solved,True,15 64 76,64,8,2,3,7,0.0185,True
+0,3,3,4,solved,True,15 64 76,76,9,5,2,9,0.1865,True
+0,3,3,5,solved,False,22 40 64,22,3,5,6,9,4.549,True
+0,3,3,5,solved,False,22 40 64,64,8,2,2,3,3.9297,True
+0,3,3,6,solved,False,23 65 77,65,8,3,2,8,2.3404,True
+0,3,3,7,solved,False,1 32 58,32,4,6,7,8,0.7129,False
+0,3,3,7,solved,False,1 32 58,58,7,5,2,3,3.9297,True
+0,3,3,8,solved,True,8 48 68,8,1,9,7,3,4.1267,True
+0,3,3,8,solved,True,8 48 68,48,6,4,2,1,0.975,True
+0,3,3,8,solved,True,8 48 68,68,8,6,2,9,0.1865,True
+0,3,3,9,solved,False,15 64 75,32,4,6,8,2,0.2166,False
+0,3,3,9,solved,False,15 64 75,64,8,2,8,9,0.5245,False
+0,3,3,9,solved,False,15 64 75,75,9,4,9,8,1.225,True
+0,3,3,10,solved,True,21 46 58,21,3,4,4,9,1.1089,True
+0,3,3,10,solved,True,21 46 58,46,6,2,8,1,1.5981,True
+0,3,3,10,solved,True,21 46 58,58,7,5,4,8,0.17,True
+0,3,3,11,solved,True,26 38 47,26,3,9,7,1,0.6144,True
+0,3,3,11,solved,True,26 38 47,38,5,3,1,6,0.1722,True
+0,3,3,11,solved,True,26 38 47,47,6,3,4,2,0.9335,True
+0,3,3,12,solved,True,30 55 56,30,4,4,9,3,0.9661,True
+0,3,3,12,solved,True,30 55 56,55,7,2,4,6,0.5552,True
+0,3,3,12,solved,True,30 55 56,56,7,3,6,4,2.1838,True
+0,3,3,13,solved,True,19 38 61,19,3,2,8,6,1.6442,True
+0,3,3,13,solved,True,19 38 61,38,5,3,5,6,1.4897,True
+0,3,3,13,solved,True,19 38 61,61,7,8,4,8,0.588,True
+0,3,3,14,solved,False,45 50 80,50,6,6,5,6,3.4143,True
+0,3,3,14,solved,False,45 50 80,80,9,9,9,4,0.8981,True
+0,3,3,15,solved,False,0 38 69,0,1,1,5,6,3.4143,True
+0,3,3,15,solved,False,0 38 69,69,8,7,7,2,3.4929,True
+0,3,3,16,solved,False,18 33 68,18,3,1,1,8,3.1421,False
+0,3,3,16,solved,False,18 33 68,68,8,6,8,2,1.2842,False
+0,3,3,17,solved,False,5 63 71,5,1,6,7,2,1.5898,True
+0,3,3,17,solved,False,5 63 71,63,8,1,3,5,0.0646,True
+0,3,3,18,solved,False,16 54 56,16,2,8,9,2,6.3647,False
+0,3,3,18,solved,False,16 54 56,54,7,1,8,7,1.0632,True
+0,3,3,19,solved,True,28 46 54,28,4,2,2,8,1.2531,True
+0,3,3,19,solved,True,28 46 54,46,6,2,3,5,0.7944,True
+0,3,3,19,solved,True,28 46 54,54,7,1,6,5,3.8555,True
+0,3,4,0,solved,False,11 13 32 39,11,2,3,4,7,9.4691,False
+0,3,4,0,solved,False,11 13 32 39,13,2,5,2,4,0.264,True
+0,3,4,0,solved,False,11 13 32 39,32,4,6,1,2,0.5933,True
+0,3,4,1,solved,False,24 53 54 61,24,3,7,4,2,8.0881,False
+0,3,4,1,solved,False,24 53 54 61,53,6,9,1,7,1.2537,True
+0,3,4,1,solved,False,24 53 54 61,61,7,8,2,1,0.975,True
+0,3,4,2,unreadable,False,6 19 32 34,,,,,,0,
+0,3,4,3,unreadable,False,1 38 44 48,,,,,,0,
+0,3,4,4,unreadable,False,9 21 71 76,,,,,,0,
+0,3,4,5,solved,False,12 28 39 56,12,2,4,8,3,0.3328,True
+0,3,4,5,solved,False,12 28 39 56,56,7,3,7,4,1.625,True
+0,3,4,6,solved,False,3 23 38 73,3,1,4,4,9,3.1027,True
+0,3,4,6,solved,False,3 23 38 73,23,3,6,9,7,3.2047,False
+0,3,4,6,solved,False,3 23 38 73,38,5,3,7,1,0.6144,True
+0,3,4,7,solved,False,37 50 64 80,37,5,2,7,9,1.0857,True
+0,3,4,8,solved,False,7 12 43 53,7,1,8,4,9,0.9191,True
+0,3,4,8,solved,False,7 12 43 53,53,6,9,8,7,0.9478,True
+0,3,4,9,unreadable,False,26 43 58 78,,,,,,0,
+0,3,4,10,unreadable,False,12 56 66 79,,,,,,0,
+0,3,4,11,solved,False,26 38 40 71,26,3,9,6,1,1.3638,True
+0,3,4,11,solved,False,26 38 40 71,38,5,3,1,6,2.8415,True
+0,3,4,11,solved,False,26 38 40 71,71,8,9,6,5,0.3647,True
+0,3,4,12,solved,False,17 64 69 79,7,1,8,2,1,4.4726,False
+0,3,4,12,solved,False,17 64 69 79,69,8,7,4,8,0.17,True
+0,3,4,12,solved,False,17 64 69 79,79,9,8,3,5,0.5003,True
+0,3,4,13,solved,False,5 20 21 28,28,4,2,8,3,0.0596,True
+0,3,4,14,unreadable,False,29 72 73 77,,,,,,0,
+0,3,4,15,solved,False,0 18 22 66,0,1,1,1,6,2.8415,True
+0,3,4,15,solved,False,0 18 22 66,18,3,1,9,3,0.9661,True
+0,3,4,15,solved,False,0 18 22 66,66,8,4,2,7,0.7292,True
+0,3,4,16,solved,False,10 19 26 50,10,2,2,6,2,0.7059,True
+0,3,4,16,solved,False,10 19 26 50,26,3,9,7,9,2.3114,True
+0,3,4,16,solved,False,10 19 26 50,50,6,6,7,4,1.625,True
+0,3,4,17,solved,False,28 47 71 78,28,4,2,7,9,1.0857,True
+0,3,4,17,solved,False,28 47 71 78,78,9,7,4,5,1.0248,True
+0,3,4,18,solved,False,20 26 59 79,20,3,3,7,3,4.1267,True
+0,3,4,18,solved,False,20 26 59 79,26,3,9,7,8,2.8292,True
+0,3,4,18,solved,False,20 26 59 79,79,9,8,6,1,0.3043,True
+0,3,4,19,unreadable,False,1 36 42 61,,,,,,0,
+0,4,0,0,solved,True,,,,,,,0,
+0,4,0,1,solved,True,,,,,,,0,
+0,4,0,2,solved,True,,,,,,,0,
+0,4,0,3,solved,True,,,,,,,0,
+0,4,0,4,solved,True,,,,,,,0,
+0,4,0,5,solved,True,,,,,,,0,
+0,4,0,6,solved,True,,,,,,,0,
+0,4,0,7,solved,True,,,,,,,0,
+0,4,0,8,solved,True,,,,,,,0,
+0,4,0,9,solved,True,,,,,,,0,
+0,4,0,10,solved,True,,,,,,,0,
+0,4,0,11,solved,True,,,,,,,0,
+0,4,0,12,solved,True,,,,,,,0,
+0,4,0,13,solved,True,,,,,,,0,
+0,4,0,14,solved,True,,,,,,,0,
+0,4,0,15,solved,True,,,,,,,0,
+0,4,0,16,solved,True,,,,,,,0,
+0,4,0,17,solved,True,,,,,,,0,
+0,4,0,18,solved,True,,,,,,,0,
+0,4,0,19,solved,True,,,,,,,0,
+0,4,1,0,solved,True,38,38,5,3,4,2,1.453,True
+0,4,1,1,solved,True,68,68,8,6,8,7,0.5962,True
+0,4,1,2,solved,True,70,70,8,8,2,4,1.2375,True
+0,4,1,3,solved,True,23,23,3,6,8,1,1.5981,True
+0,4,1,4,solved,True,74,74,9,3,9,3,0.282,True
+0,4,1,5,solved,False,3,59,7,6,9,4,4.9553,False
+0,4,1,6,solved,True,51,51,6,7,2,1,0.9886,True
+0,4,1,7,solved,True,37,37,5,2,7,2,1.2216,True
+0,4,1,8,solved,True,42,42,5,7,4,2,0.5379,True
+0,4,1,9,solved,True,73,73,9,2,9,8,4.0059,True
+0,4,1,10,solved,True,48,48,6,4,9,5,1.7348,True
+0,4,1,11,solved,True,57,57,7,4,6,4,0.2285,True
+0,4,1,12,solved,True,63,63,8,1,2,4,0.264,True
+0,4,1,13,solved,True,48,48,6,4,6,4,2.1838,True
+0,4,1,14,solved,True,72,72,9,1,2,1,0.975,True
+0,4,1,15,solved,True,48,48,6,4,8,3,0.7,True
+0,4,1,16,solved,True,25,25,3,8,7,9,0.9035,True
+0,4,1,17,solved,True,70,70,8,8,4,6,1.5172,True
+0,4,1,18,solved,False,9,,,,,,0,
+0,4,1,19,solved,False,12,,,,,,0,
+0,4,2,0,solved,True,38 70,38,5,3,7,2,3.3647,True
+0,4,2,0,solved,True,38 70,70,8,8,1,6,0.2833,True
+0,4,2,1,solved,False,49 56,49,6,5,5,6,1.4897,True
+0,4,2,2,solved,False,54 66,66,8,4,7,2,4.4244,False
+0,4,2,3,solved,True,45 69,45,6,1,3,7,0.0185,True
+0,4,2,3,solved,True,45 69,69,8,7,4,6,1.5172,True
+0,4,2,4,solved,True,7 37,7,1,8,7,8,1.2991,True
+0,4,2,4,solved,True,7 37,37,5,2,7,3,0.5899,True
+0,4,2,5,solved,False,19 78,19,3,2,7,3,4.1267,True
+0,4,2,6,solved,True,11 28,11,2,3,3,9,1.2685,True
+0,4,2,6,solved,True,11 28,28,4,2,8,1,0.7048,True
+0,4,2,7,solved,True,32 47,32,4,6,3,9,1.2685,True
+0,4,2,7,solved,True,32 47,47,6,3,2,8,0.9261,True
+0,4,2,8,solved,True,26 39,26,3,9,2,1,2.1331,True
+0,4,2,8,solved,True,26 39,39,5,4,9,4,0.8981,True
+0,4,2,9,solved,False,40 58,,,,,,0,
+0,4,2,10,solved,False,8 44,8,1,9,2,1,3.0662,True
+0,4,2,11,solved,True,57 69,57,7,4,9,4,2.7145,True
+0,4,2,11,solved,True,57 69,69,8,7,2,9,0.1865,True
+0,4,2,12,solved,False,32 57,57,7,4,2,6,1.5554,True
+0,4,2,13,unreadable,False,14 63,,,,,,0,
+0,4,2,14,solved,True,34 59,34,4,8,5,6,1.4897,True
+0,4,2,14,solved,True,34 59,59,7,6,8,1,0.7048,True
+0,4,2,15,solved,True,11 71,11,2,3,3,8,0.062,True
+0,4,2,15,solved,True,11 71,71,8,9,8,2,0.0155,True
+0,4,2,16,solved,True,16 61,16,2,8,2,7,6.235,True
+0,4,2,16,solved,True,16 61,61,7,8,2,1,2.1331,True
+0,4,2,17,solved,False,1 78,1,1,2,2,1,3.0411,False
+0,4,2,17,solved,False,1 78,78,9,7,3,1,0.1989,True
+0,4,2,18,solved,True,1 64,1,1,2,9,8,1.225,True
+0,4,2,18,solved,True,1 64,64,8,2,2,6,1.5554,True
+0,4,2,19,solved,True,12 57,12,2,4,7,2,3.4929,True
+0,4,2,19,solved,True,12 57,57,7,4,2,6,1.5554,True
+0,4,3,0,solved,True,18 26 48,18,3,1,6,4,0.2285,True
+0,4,3,0,solved,True,18 26 48,26,3,9,8,6,1.6442,True
+0,4,3,0,solved,True,18 26 48,48,6,4,2,1,0.975,True
+0,4,3,1,solved,False,56 69 71,69,8,7,3,5,0.1879,True
+0,4,3,1,solved,False,56 69 71,71,8,9,8,3,0.7,True
+0,4,3,2,solved,False,16 40 52,16,2,8,3,5,2.4951,True
+0,4,3,2,solved,False,16 40 52,40,5,5,7,3,2.3108,False
+0,4,3,2,solved,False,16 40 52,52,6,8,4,9,0.9191,True
+0,4,3,3,solved,False,30 37 64,37,5,2,4,5,3.6998,True
+0,4,3,3,solved,False,30 37 64,64,8,2,2,3,0.5006,True
+0,4,3,4,solved,True,5 43 73,5,1,6,9,4,0.6952,True
+0,4,3,4,solved,True,5 43 73,43,5,8,8,6,1.6442,True
+0,4,3,4,solved,True,5 43 73,73,9,2,9,8,1.225,True
+0,4,3,5,unreadable,False,1 19 67,,,,,,0,
+0,4,3,6,solved,False,18 42 70,42,5,7,4,9,0.1209,True
+0,4,3,7,solved,False,2 32 73,2,1,3,8,6,2.1645,True
+0,4,3,7,solved,False,2 32 73,32,4,6,7,9,0.0747,True
+0,4,3,8,solved,True,39 50 68,39,5,4,6,4,0.2285,True
+0,4,3,8,solved,True,39 50 68,50,6,6,4,6,0.5552,True
+0,4,3,8,solved,True,39 50 68,68,8,6,4,9,0.8062,True
+0,4,3,9,solved,False,47 58 80,47,6,3,1,8,0.1023,False
+0,4,3,9,solved,False,47 58 80,58,7,5,6,1,1.3638,True
+0,4,3,9,solved,False,47 58 80,80,9,9,3,9,0.8453,True
+0,4,3,10,solved,True,10 22 54,10,2,2,2,4,0.264,True
+0,4,3,10,solved,True,10 22 54,22,3,5,9,5,1.7348,True
+0,4,3,10,solved,True,10 22 54,54,7,1,7,9,1.3095,True
+0,4,3,11,solved,False,29 37 72,29,4,3,6,5,2.1762,True
+0,4,3,11,solved,False,29 37 72,37,5,2,9,8,4.0059,True
+0,4,3,12,solved,False,54 63 70,54,7,1,7,3,4.1267,True
+0,4,3,12,solved,False,54 63 70,63,8,1,9,4,0.692,True
+0,4,3,13,solved,False,25 48 68,48,6,4,7,4,1.625,True
+0,4,3,13,solved,False,25 48 68,68,8,6,8,2,5.3936,True
+0,4,3,13,solved,False,25 48 68,70,8,8,3,5,3.1823,False
+0,4,3,14,solved,False,12 53 72,12,2,4,2,1,1.6664,False
+0,4,3,14,solved,False,12 53 72,53,6,9,2,7,0.7292,True
+0,4,3,14,solved,False,12 53 72,72,9,1,2,1,2.1331,True
+0,4,3,15,solved,False,29 31 48,29,4,3,6,5,0.6929,True
+0,4,3,15,solved,False,29 31 48,48,6,4,9,3,1.3547,True
+0,4,3,16,solved,True,2 22 44,2,1,3,6,1,1.3638,True
+0,4,3,16,solved,True,2 22 44,22,3,5,6,4,0.2285,True
+0,4,3,16,solved,True,2 22 44,44,5,9,4,2,1.453,True
+0,4,3,17,unreadable,False,13 66 70,,,,,,0,
+0,4,3,18,solved,False,9 28 38,28,4,2,8,5,3.1844,True
+0,4,3,18,solved,False,9 28 38,38,5,3,6,3,0.4503,True
+0,4,3,19,solved,True,26 47 57,26,3,9,2,1,2.1331,True
+0,4,3,19,solved,True,26 47 57,47,6,3,8,5,0.1989,True
+0,4,3,19,solved,True,26 47 57,57,7,4,8,6,1.6442,True
+0,4,4,0,unreadable,False,13 30 76 78,,,,,,0,
+0,4,4,1,unreadable,False,28 37 71 76,,,,,,0,
+0,4,4,2,unreadable,False,27 43 59 71,,,,,,0,
+0,4,4,3,solved,False,16 23 36 60,16,2,8,1,9,0.2778,True
+0,4,4,3,solved,False,16 23 36 60,23,3,6,2,1,0.975,True
+0,4,4,3,solved,False,16 23 36 60,60,7,7,9,1,2.9563,False
+0,4,4,4,solved,False,7 29 52 61,7,1,8,4,8,1.5679,True
+0,4,4,4,solved,False,7 29 52 61,29,4,3,8,2,0.6995,True
+0,4,4,4,solved,False,7 29 52 61,52,6,8,6,1,0.3043,True
+0,4,4,5,unreadable,False,5 30 40 43,,,,,,0,
+0,4,4,6,unreadable,False,2 11 14 19,,,,,,0,
+0,4,4,7,unreadable,False,60 62 75 79,,,,,,0,
+0,4,4,8,solved,False,35 47 56 59,35,4,9,8,6,1.6442,True
+0,4,4,8,solved,False,35 47 56 59,59,7,6,3,1,0.1989,True
+0,4,4,9,unreadable,False,14 22 27 41,,,,,,0,
+0,4,4,10,solved,False,30 40 44 69,40,5,5,6,8,1.122,True
+0,4,4,10,solved,False,30 40 44 69,69,8,7,2,7,0.0365,True
+0,4,4,11,solved,False,25 33 43 57,25,3,8,1,7,1.3073,True
+0,4,4,11,solved,False,25 33 43 57,33,4,7,5,3,3.7885,False
+0,4,4,11,solved,False,25 33 43 57,57,7,4,9,4,0.6952,True
+0,4,4,12,unreadable,False,10 29 49 54,,,,,,0,
+0,4,4,13,unreadable,False,0 1 40 48,,,,,,0,
+0,4,4,14,unreadable,False,8 24 31 78,,,,,,0,
+0,4,4,15,solved,False,15 24 36 39,15,2,7,6,2,0.7059,True
+0,4,4,15,solved,False,15 24 36 39,36,5,1,8,2,1.0565,True
+0,4,4,16,solved,False,25 34 67 71,25,3,8,4,9,2.8234,True
+0,4,4,16,solved,False,25 34 67 71,67,8,5,8,5,0.1989,True
+0,4,4,16,solved,False,25 34 67 71,71,8,9,2,9,0.1865,True
+0,4,4,17,unreadable,False,4 50 56 78,,,,,,0,
+0,4,4,18,unreadable,False,13 28 38 41,,,,,,0,
+0,4,4,19,solved,False,22 56 59 60,22,3,5,4,6,0.5552,True
+0,4,4,19,solved,False,22 56 59 60,26,3,9,1,9,5.2922,False
+0,4,4,19,solved,False,22 56 59 60,59,7,6,2,1,3.0662,True
